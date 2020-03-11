@@ -6,6 +6,7 @@ This program downloads the encrypted PDF from my Google Drive, decrypts the file
 PDF to my Google Drive and deletes all the redundant files.
 
 Prerequisites
+
 In order to run this program there are 2 prerequisites:
 1. A JSON file named 'config.JSON' needs to be created in the project directory with these keys:
             `{
